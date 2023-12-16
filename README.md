@@ -23,5 +23,4 @@ The Note App is built using the following technologies:
 - dart
 - firebase
 
-### Contributing
-We welcome contributions to improve the BMI Calculator App. If you find any issues or have ideas for enhancements, feel free to open an issue or submit a pull request. Please follow the standard coding conventions and provide clear commit messages to ensure a smooth review process.
+
